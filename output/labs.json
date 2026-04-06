@@ -1,0 +1,12 @@
+{
+    "clinical_information": {
+        "lab_results": {
+            "CBC": "ABNORMAL",
+            "CMP": "ABNORMAL",
+            "ESR": null,
+            "CRP": null,
+            "fecal_markers": null,
+            "abnormal_values": "WBC: LOW, Hemoglobin: LOW, Hematocrit: LOW, Platelet Count: LOW, Albumin: LOW, AST: HIGH, ALT: HIGH, ALP: HIGH, Lactate Dehydrogenase: HIGH, Serum Ferritin: HIGH"
+        }
+    }
+}

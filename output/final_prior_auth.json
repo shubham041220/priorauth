@@ -1,0 +1,39 @@
+{
+    "patient_information": {
+        "patient_name": "Aiden Smith",
+        "patient_date_of_birth": "2-1-2014",
+        "patient_id": "7891023",
+        "patient_address": "18 N Ontario St, New York, NY, 21022",
+        "patient_phone_number": "555-876-3416"
+    },
+    "physician_information": {
+        "physician_name": "Dr. Lisa Lauren",
+        "specialty": "Oncology",
+        "physician_contact": {
+            "office_phone": "555-426-7898",
+            "fax": "555-426-7899",
+            "office_address": "1423 Miracle Drive, New York, NY, 21023"
+        }
+    },
+    "clinical_information": {
+        "diagnosis": "Recurrent high-grade osteosarcoma with metastatic disease to the lungs",
+        "icd_10_code": "C40.2",
+        "prior_treatments_and_results": "Neoadjuvant chemotherapy (Doxorubicin, Cisplatin, Methotrexate) for 3 cycles over 6 weeks, followed by limb-sparing surgical resection of the distal femur on May 1, 2024. Post-surgery adjuvant chemotherapy (Doxorubicin, Cisplatin, Methotrexate, Ifosfamide) for 6 cycles over 12 weeks. Despite these treatments, imaging and lab results indicate recurrence and metastatic disease.",
+        "specific_drugs_taken_and_failures": null,
+        "alternative_drugs_required": null,
+        "lab_results": null,
+        "lab_summary": "The patient presents with pancytopenia (low WBC, hemoglobin, hematocrit, and platelet count), suggesting bone marrow suppression or a hematologic disorder. Liver function tests are abnormal, with elevated AST, ALT, and ALP, indicating hepatocellular injury and possible cholestasis. Elevated lactate dehydrogenase suggests tissue damage or hemolysis. Low albumin may reflect chronic inflammation, liver dysfunction, or malnutrition. High serum ferritin could indicate inflammation, iron overload, or liver disease. Further evaluation, including bone marrow assessment and liver imaging, is recommended.",
+        "imaging_results": "CT Scan of the Chest (09/4/24): Findings include a 1.5 cm rounded lesion in the left lower lobe with irregular margins and spiculated appearance, suggestive of metastatic deposit. Multiple small nodules (up to 5 mm) in both lung fields, consistent with potential metastatic disease. No significant lymphadenopathy or pleural effusion noted. Conclusion: Findings concerning for metastatic pulmonary lesions consistent with recurrent osteosarcoma.\n\nMRI of the Left Femur (09/4/24): Evidence of a new, irregular mass at the site of previous osteosarcoma resection, measuring 4.0 cm, with heterogeneous signal intensity and extension into surrounding soft tissues. Extensive bone marrow edema and thickening of surrounding soft tissues noted. Conclusion: Suggests recurrence of osteosarcoma at the distal femur site with aggressive local behavior.\n\nX-ray Findings (3/1/24): Aggressive-appearing, lytic bone lesion in the distal femur (5 cm) with cortical destruction, soft tissue mass, and periosteal reaction (sunburst pattern). No evidence of metastatic disease in surrounding bones or soft tissues.\n\nMRI Findings (3/2/24): Large, heterogeneous mass in the distal femur (5.5 cm x 6.2 cm) with mixed signal intensity, infiltrative margins, and local muscle invasion. No significant bone marrow edema in adjacent structures or evidence of lymphadenopathy/distant metastases.",
+        "symptom_severity_and_impact": "Patient presents with left thigh pain at the site of prior resection, non-productive cough, and fatigue for the last 2 weeks. Physical exam reveals tenderness to palpation at the left thigh and a palpable mass above the knee joint. Symptoms are impacting daily functioning and indicate disease progression.",
+        "prognosis_and_risk_if_not_approved": "Without approval of the proposed mTOR inhibitor therapy (everolimus), the patient faces a high risk of further disease progression, increased tumor burden, and potential worsening of metastatic lesions in the lungs. This could lead to significant morbidity, decreased quality of life, and potentially reduced survival.",
+        "clinical_rationale_for_urgency": "The patient has exhausted standard treatment options and exhibits clear signs of recurrent and metastatic osteosarcoma. High LDH and ferritin levels suggest a high tumor burden, and the presence of new lung lesions indicates rapid disease progression. Initiation of everolimus is critical to attempt to control disease progression and improve outcomes.",
+        "treatment_request": {
+            "name_of_medication_or_procedure": "Everolimus",
+            "code_of_medication_or_procedure": null,
+            "dosage": "5mg/m2 once daily",
+            "duration": null,
+            "rationale": "Metastatic Osteosarcoma (ICD-10: CD40.0)",
+            "presumed_eligibility": null
+        }
+    }
+}
