@@ -28,3 +28,6 @@ langchain-huggingface
 sentence-transformers
 transformers
 torch
+rank_bm25
+flashrank
+langchain_classic

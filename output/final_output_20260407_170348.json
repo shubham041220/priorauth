@@ -1,0 +1,64 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": "Aiden Smith",
+            "patient_date_of_birth": "2-1-2014",
+            "patient_id": "7891023",
+            "patient_address": "18 N Ontario St, New York, NY, 21022",
+            "patient_phone_number": "555-876-3416"
+        },
+        "physician_information": {
+            "physician_name": "Dr. Lisa Lauren",
+            "specialty": "Oncology",
+            "physician_contact": {
+                "office_phone": "555-426-7898",
+                "fax": "555-426-7899",
+                "office_address": "1423 Miracle Drive, New York, NY, 21023"
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Recurrent high-grade osteosarcoma with metastatic disease to the lungs",
+            "icd_10_code": "C40.20",
+            "prior_treatments_and_results": "Neoadjuvant chemotherapy (Doxorubicin, Cisplatin, Methotrexate for 3 cycles) followed by limb-sparing surgical resection (May 1, 2024) and adjuvant chemotherapy (Doxorubicin, Cisplatin, Methotrexate, Ifosfamide for 6 cycles). Despite treatment, imaging and lab results indicate recurrence and metastasis.",
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "The patient presents with pancytopenia (low WBC, hemoglobin, hematocrit, and platelet count), suggesting bone marrow suppression or a hematologic disorder. Liver function tests are abnormal, with elevated AST, ALT, and ALP, indicating hepatocellular injury or cholestasis. Elevated lactate dehydrogenase suggests tissue damage or hemolysis. Low albumin may reflect chronic inflammation, liver dysfunction, or malnutrition. High serum ferritin could indicate inflammation, iron overload, or liver disease. Further evaluation, including bone marrow assessment and liver imaging, is recommended.",
+            "imaging_results": "CT Scan of the Chest (09/4/24): Findings include a 1.5 cm rounded lesion in the left lower lobe with irregular margins and spiculated appearance, suggestive of metastatic deposit. Multiple small nodules (up to 5 mm) in both lung fields, consistent with potential metastatic disease. No significant lymphadenopathy or pleural effusion noted. Conclusion: Findings concerning for metastatic pulmonary lesions consistent with recurrent osteosarcoma.\n\nMRI of the Left Femur (09/4/24): Findings include a new irregular mass at the previous osteosarcoma resection site, measuring 4.0 cm, with heterogeneous signal intensity and extension into surrounding soft tissues. Extensive bone marrow edema and soft tissue thickening noted. Conclusion: Suggests recurrence of osteosarcoma with aggressive local behavior.\n\nX-ray Findings (3/1/24): Aggressive lytic bone lesion in the distal femur (~5 cm) with cortical destruction, soft tissue mass, and periosteal reaction (sunburst pattern). No metastatic disease noted in surrounding bones or soft tissues.\n\nMRI Findings (3/2/24): Large heterogeneous mass in the distal femur (5.5 cm x 6.2 cm) with mixed signal intensity, local muscle invasion, and infiltrative margins. No lymphadenopathy or distant metastatic lesions identified.",
+            "symptom_severity_and_impact": "Left thigh pain at prior resection site, non-productive cough, fatigue, palpable mass above knee joint with tenderness, and elevated LDH/ferritin indicating high tumor burden. Symptoms impact daily functioning and suggest disease progression.",
+            "prognosis_and_risk_if_not_approved": "High risk of rapid disease progression, increased metastatic spread, and deterioration of clinical status without timely intervention. Poor prognosis if recurrence is left untreated.",
+            "clinical_rationale_for_urgency": "Recurrence and metastasis despite aggressive multimodal therapy indicate limited treatment options. Initiation of mTOR inhibitor therapy (everolimus) is critical to control disease progression and improve outcomes.",
+            "treatment_request": {
+                "name_of_medication_or_procedure": "Everolimus",
+                "code_of_medication_or_procedure": null,
+                "dosage": "5mg/m2 once daily",
+                "duration": null,
+                "rationale": "Metastatic Osteosarcoma (ICD-10: CD40.0)",
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        "© 2024 UnitedHealthcare Services, Inc. \n10 \n \n(1) Patient does not show evidence of progressive disease while on Afinitor therapy \n \nAuthorization will be issued for 12 months. \n \nO. Bone Cancer - Osteosarcoma \n \n1. Initial Authorization \n \na. Afinitor will be approved based on all of the following criteria: \n \n(1) Diagnosis of osteosarcoma \n \n-AND- \n \n(2) Disease is one of the following: \n(a) Relapsed/Refractory \n(b) Metastatic \n-AND- \n \n(3) Used as second-line therapy  \n \n-AND- \n \n(4) Used in combination with Nexavar (sorafenib) \n \nAuthorization will be issued for 12 months. \n \n2. Reauthorization  \n \na. Afinitor will be approved based on the following criterion: \n \n(1) Patient does not show evidence of progressive disease while on Afinitor therapy \n \nAuthorization will be issued for 12 months. \n \nP. Histiocytic Neoplasms \n \n1. Initial Authorization \n \na. Afinitor will be approved based on both of the following criteria: \n \n(1) Diagnosis of one of the following: \n \n(a) Rosai-Dorfman Disease \n(b) Langerhans Cell Histiocytosis \n(c) Erdheim-Chester Disease \n \n-AND-",
+        "© 2024 UnitedHealthcare Services, Inc. \n13 \nOsteosarcoma and Thymoma/thymic carcinoma per NCCN guidelines. \nUpdated background and references. \n7/2017 Annual review. Updated background and added criteria for thyroid \ncarcinoma and the bone cancers, dedifferentiated chondrosarcoma,  \nhigh-grade undifferentiated pleomorphic sarcoma (UPS) per NCCN \nguidelines.  Updated references. \n5/2018 Annual review. Updated background, added criteria for meningioma, \ngastrointenstinal stromal tumors, endometrial carcinoma, thymic \nneuroendocrine tumors, and updated breast cancer criteria per NCCN \nguidelines. Added criteria for new indication of tuberous sclerosis \ncomplex associated partial-onset seizures. Updated references. \n5/2019 Annual review. Updated background. Removed criteria for bone cancer \n(no longer recommended per NCCN guidelines). Updated reference. \n5/2020 Annual review. Updated background. Updated coverage criteria for soft \ntissue sarcoma, thymomas and thymic carcinomas, and meningiomas \nper NCCN guidelines. Updated references. \n5/2021 Annual review. Addition of criteria for osteosarcoma and Histiocytic \nNeoplasms, and update to kidney cancer criteria according to NCCN \nguidelines. Updated references.",
+        "per NCCN guidelines. Updated references. \n5/2021 Annual review. Addition of criteria for osteosarcoma and Histiocytic \nNeoplasms, and update to kidney cancer criteria according to NCCN \nguidelines. Updated references. \n5/2022 Annual review. Updated background. Updated osteosarcoma criteria per \nNCCN guidelines. Updated references. \n5/2023 Annual review. Updated background. Updated Neuroendocrine tumor \nand Hodgkin lymphoma criteria per NCCN guidelines. Added state \nmandate and oncology medications footnote. Updated references. \n5/2024 Updated background to reflect current NCCN guidance. Updated \ncriteria for neuroendocrine tumors, advanced renal cell \ncarcinoma/kidney cancer. Renamed and updated criteria for tuberous \nsclerosis complex-associated renal cell carcinoma. Renamed and \nupdated criteria for subependymal giant cell astrocytoma section. \nUpdated criteria for breast cancer, soft tissue sarcomas, thymomas and \nthymic carcinomas, meningiomas, bone cancer - osteosarcoma, and \nhistiocytic neoplasms. Separated and updated criteria for \ngastrointestingal stromal tumor (GIST) from soft tissue sarcoma. \nRemoved oncology medications footnote."
+    ],
+    "original_decision": {
+        "decision": "DENIED",
+        "confidence": 0.95,
+        "reason": "The request for Everolimus (Afinitor) as second-line therapy for relapsed/refractory metastatic osteosarcoma does not meet the policy criteria. The policy requires Everolimus to be used in combination with Nexavar (sorafenib), which is not specified in the treatment request. Additionally, the policy explicitly states approval is contingent on this combination therapy.",
+        "policy_references": [
+            "\n\n(1) Patient does not show evidence of progressive disease while on Afinitor therapy \n \nAuthorization will be issued for 12 months. \n \nO. Bone Cancer - Osteosarcoma \n \n1. Initial Authorization"
+        ],
+        "matched_policy_text": "(3) Used as second-line therapy  \n \n-AND- \n \n(4) Used in combination with Nexavar (sorafenib)"
+    },
+    "validation": {
+        "valid": true,
+        "final_decision": "DENIED",
+        "issues": [
+            "The treatment request for Everolimus (Afinitor) does not meet the policy requirement for use in combination with Nexavar (sorafenib) as specified in the osteosarcoma criteria for initial authorization.",
+            "The patient's clinical information does not indicate or request the combination therapy with Nexavar (sorafenib)."
+        ]
+    },
+    "final_decision": "DENIED"
+}
