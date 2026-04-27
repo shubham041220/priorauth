@@ -2,9 +2,9 @@
     "clinical_information": {
         "diagnosis": "Major Depressive Disorder, recurrent, severe without psychotic features",
         "icd_10_code": "F33.2",
-        "prior_treatments_and_results": null,
-        "symptom_severity_and_impact": null,
-        "prognosis_and_risk_if_not_approved": null,
-        "clinical_rationale_for_urgency": null
+        "prior_treatments_and_results": "Patient has tried and failed SSRIs (sertraline, escitalopram) and SNRIs (venlafaxine, duloxetine). Partial response to bupropion but significant residual symptoms persist.",
+        "symptom_severity_and_impact": "PHQ-9 score of 22 indicating severe depression. Patient reports inability to work, social withdrawal, and suicidal ideation without plan. Symptoms significantly impair daily functioning.",
+        "prognosis_and_risk_if_not_approved": "Without effective treatment, high risk of worsening depression, potential hospitalization, and increased suicide risk. Patient's functional impairment is likely to persist or deteriorate.",
+        "clinical_rationale_for_urgency": "Current treatment regimen has failed to achieve remission. Urgent need for alternative therapy (e.g., MAOI or TMS) to prevent further deterioration and reduce suicide risk."
     }
 }

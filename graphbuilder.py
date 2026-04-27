@@ -16,6 +16,8 @@ from nodes.evaluation_node import evaluation_node
 from State import PriorAuthState
 
 from llm.mistral import LLMClient
+from llm.gemini import LLMClient as GeminiClient
+
 from ocr.ocr_space import OCRSpaceClient
 from embeddings.huggingface_embedding import HFEmbeddings
 from vectordb.chormadb import ChromaDB
@@ -31,6 +33,7 @@ def build_graph():
 
     # ── Create ALL objects ONCE here ──────────────────────────────────
     llm      = LLMClient()
+    gemini=GeminiClient()
     ocr      = OCRSpaceClient()
     embedder = HFEmbeddings()
     vectordb = ChromaDB(embedder=embedder)
