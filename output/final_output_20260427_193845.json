@@ -1,0 +1,65 @@
+{
+    "input": {
+        "patient_information": {
+            "patient_name": null,
+            "patient_date_of_birth": null,
+            "patient_id": null,
+            "patient_address": null,
+            "patient_phone_number": null
+        },
+        "physician_information": {
+            "physician_name": null,
+            "specialty": null,
+            "physician_contact": {
+                "office_phone": null,
+                "fax": null,
+                "office_address": null
+            }
+        },
+        "clinical_information": {
+            "diagnosis": "Major Depressive Disorder, recurrent, severe without psychotic features",
+            "icd_10_code": "F33.2",
+            "prior_treatments_and_results": null,
+            "specific_drugs_taken_and_failures": null,
+            "alternative_drugs_required": null,
+            "lab_results": null,
+            "lab_summary": "No lab results provided for interpretation. All panels (CBC, CMP, ESR, CRP, fecal markers) and abnormal values are marked as null. Further data is required for meaningful analysis.",
+            "imaging_results": null,
+            "symptom_severity_and_impact": null,
+            "prognosis_and_risk_if_not_approved": null,
+            "clinical_rationale_for_urgency": null,
+            "treatment_request": {
+                "name_of_medication_or_procedure": null,
+                "code_of_medication_or_procedure": null,
+                "dosage": null,
+                "duration": null,
+                "rationale": null,
+                "presumed_eligibility": null
+            }
+        }
+    },
+    "retrieved_policies": [
+        "myoclonic, tonic-clonic, absence, atypical absence, atonic, focal aware or impaired \nawareness (previously called partial seizures), and status epilepticus.3  Two or more \nantiseizure medications (ASMs) are often needed to control the seizures; most of the \nseizures are refractory to medications . The goals of treatment are cessation of \nprolonged convulsions, reduction in overall seizure frequency, and minimization of \ntreatment side effects.4,5 \n \nLennox-Gastaut syndrome, a severe epileptic and developmental encephalopathy, is \nassociated with a high rate of morbidity and mortality.6,7  Lennox-Gastaut syndrome",
+        "6 Pages  - Cigna National Formulary Coverage  - Policy:Antiseizure Medications – Epidiolex Prior Authorization \nPolicy \n \n4. Treatment-Refractory Seizures/Epilepsy [specific rare conditions]  (i.e., \nCDKL5 deficiency disorder; Dup15q, Aicardi, or Doose syndromes; febrile \ninfection‐related epilepsy syndromes; Sturge ‐Weber syndrome; lissencephaly; \ncortical malformation/dysplasia; and epilepsy with myoclonic absences). Approve \nif the patient meets ONE of the following (A or B): \nA) Initial Therapy. Approve for 1 year if the patient meets the following (i, ii, and \niii): \ni. Patient is ≥ 1 year of age; AND \nii. Patient has tried or is concomitantly receiving at least two other antiseizure \nmedications; AND \nNote:  Examples of other antiseizure medications  include valproic acid, \nlamotrigine, topiramate, clonazepam, levetiracetam, zonisamide, Banzel, \nfelbamate, clobazam, Fycompa, vigabatrin. \niii. The medication is prescribed by or in consultation with a neurologist. \nB) Patient is Currently Receiving Epidiolex . Approve for 1 year if the patient is \nresponding to therapy ( e.g., reduced seizure severity, frequency, and/or \nduration) as determined by the prescriber. \n \n \nCONDITIONS NOT COVERED",
+        "6 Pages  - Cigna National Formulary Coverage  - Policy:Antiseizure Medications – Epidiolex Prior Authorization \nPolicy \n \nmost often begins between 3 and 5 years of age .6-9  Affected children experience \nseveral different types of seizures, most commonly atonic seizures (sudden loss of \nmuscle tone and limpness) and tonic seizures.6,9  The three main forms of treatment \nof Lennox-Gastaut syndrome are ASMs, dietary therapy (typically the ketogenic diet), \nand device/surgery (e.g., vagus nerve stimulation, corpus callostomy).9  None of the \ntherapies are effective in all cases of Lennox-Gastaut syndrome and the disorder has \nproven particularly resistant to most therapeutic options. \n \nTuberous sclerosis complex is a rare, genetic disease that causes non -cancerous \n(benign) tumors to grow in the brain and on other vital organs such as the kidneys, \nheart, eyes, lungs, and skin.10  It can result in a combination of symptoms including \nseizures, impaired intellectual development, autism, behavioral problems, skin \nabnormalities, and kidney disease . Seizures affect most individuals with tuberous \nsclerosis complex at some point during their life and can be difficult to control. \n \nClinical Efficacy in Other Refractory Seizures"
+    ],
+    "original_decision": {
+        "decision": "DENIED",
+        "confidence": 1.0,
+        "reason": "The patient's diagnosis (Major Depressive Disorder, recurrent, severe without psychotic features, ICD-10 F33.2) does not match any of the conditions covered under the provided Epidiolex prior authorization policy. The policy specifically addresses treatment-refractory seizures/epilepsy associated with rare epileptic syndromes or conditions (e.g., Lennox-Gastaut syndrome, tuberous sclerosis complex, CDKL5 deficiency disorder, etc.). There is no indication that the requested treatment is for a seizure-related disorder.",
+        "policy_references": [
+            "6 Pages - Cigna National Formulary Coverage - Policy:Antiseizure Medications – Epidiolex Prior Authorization"
+        ],
+        "matched_policy_text": "4. Treatment-Refractory Seizures/Epilepsy [specific rare conditions] (i.e., CDKL5 deficiency disorder; Dup15q, Aicardi, or Doose syndromes; febrile infection‐related epilepsy syndromes; Sturge ‐Weber syndrome; lissencephaly; cortical malformation/dysplasia; and epilepsy with myoclonic absences)."
+    },
+    "validation": {
+        "valid": true,
+        "final_decision": "DENIED",
+        "issues": [
+            "Patient diagnosis (Major Depressive Disorder, recurrent, severe without psychotic features, ICD-10 F33.2) does not match any condition covered under the Epidiolex prior authorization policy.",
+            "Policy explicitly applies to treatment-refractory seizures/epilepsy associated with specific rare epileptic syndromes or conditions (e.g., Lennox-Gastaut syndrome, tuberous sclerosis complex, CDKL5 deficiency disorder).",
+            "No evidence or indication in the patient case that the requested treatment is for a seizure-related disorder."
+        ]
+    },
+    "final_decision": "DENIED"
+}

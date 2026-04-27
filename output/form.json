@@ -1,27 +1,27 @@
 {
     "patient_information": {
-        "patient_name": "Aiden Smith",
-        "patient_date_of_birth": "2-1-2014",
-        "patient_id": "7891023",
-        "patient_address": "18 N Ontario St, New York, NY, 21022",
-        "patient_phone_number": "555-876-3416"
+        "patient_name": null,
+        "patient_date_of_birth": null,
+        "patient_id": null,
+        "patient_address": null,
+        "patient_phone_number": null
     },
     "physician_information": {
-        "physician_name": "Dr. Lisa Lauren",
-        "specialty": "Oncology",
+        "physician_name": null,
+        "specialty": null,
         "physician_contact": {
-            "office_phone": "555-426-7898",
-            "fax": "555-426-7899",
-            "office_address": "1423 Miracle Drive, New York, NY, 21023"
+            "office_phone": null,
+            "fax": null,
+            "office_address": null
         }
     },
     "clinical_information": {
         "treatment_request": {
-            "name_of_medication_or_procedure": "Everolimus",
+            "name_of_medication_or_procedure": null,
             "code_of_medication_or_procedure": null,
-            "dosage": "5mg/m2 once daily",
+            "dosage": null,
             "duration": null,
-            "rationale": "Metastatic Osteosarcoma (ICD-10: CD40.0)",
+            "rationale": null,
             "presumed_eligibility": null
         }
     }

@@ -1,38 +1,38 @@
 {
     "patient_information": {
-        "patient_name": "Aiden Smith",
-        "patient_date_of_birth": "2-1-2014",
-        "patient_id": "7891023",
-        "patient_address": "18 N Ontario St, New York, NY, 21022",
-        "patient_phone_number": "555-876-3416"
+        "patient_name": null,
+        "patient_date_of_birth": null,
+        "patient_id": null,
+        "patient_address": null,
+        "patient_phone_number": null
     },
     "physician_information": {
-        "physician_name": "Dr. Lisa Lauren",
-        "specialty": "Oncology",
+        "physician_name": null,
+        "specialty": null,
         "physician_contact": {
-            "office_phone": "555-426-7898",
-            "fax": "555-426-7899",
-            "office_address": "1423 Miracle Drive, New York, NY, 21023"
+            "office_phone": null,
+            "fax": null,
+            "office_address": null
         }
     },
     "clinical_information": {
-        "diagnosis": "Recurrent high-grade osteosarcoma with metastatic disease to the lungs",
-        "icd_10_code": "C40.20",
-        "prior_treatments_and_results": "Neoadjuvant chemotherapy (Doxorubicin, Cisplatin, Methotrexate for 3 cycles) followed by limb-sparing surgical resection (May 1, 2024) and adjuvant chemotherapy (Doxorubicin, Cisplatin, Methotrexate, Ifosfamide for 6 cycles). Despite treatment, imaging and lab results indicate recurrence and metastasis.",
+        "diagnosis": "Major Depressive Disorder, recurrent, severe without psychotic features",
+        "icd_10_code": "F33.2",
+        "prior_treatments_and_results": null,
         "specific_drugs_taken_and_failures": null,
         "alternative_drugs_required": null,
         "lab_results": null,
-        "lab_summary": "The patient presents with pancytopenia (low WBC, hemoglobin, hematocrit, and platelet count), suggesting bone marrow suppression or a hematologic disorder. Liver function tests are abnormal, with elevated AST, ALT, and ALP, indicating hepatocellular injury or cholestasis. Elevated lactate dehydrogenase suggests tissue damage or hemolysis. Low albumin may reflect chronic inflammation, liver dysfunction, or malnutrition. High serum ferritin could indicate inflammation, iron overload, or liver disease. Further evaluation, including bone marrow assessment and liver imaging, is recommended.",
-        "imaging_results": "CT Scan of the Chest (09/4/24): Findings include a 1.5 cm rounded lesion in the left lower lobe with irregular margins and spiculated appearance, suggestive of metastatic deposit. Multiple small nodules (up to 5 mm) in both lung fields, consistent with potential metastatic disease. No significant lymphadenopathy or pleural effusion noted. Conclusion: Findings concerning for metastatic pulmonary lesions consistent with recurrent osteosarcoma.\n\nMRI of the Left Femur (09/4/24): Findings include a new irregular mass at the previous osteosarcoma resection site, measuring 4.0 cm, with heterogeneous signal intensity and extension into surrounding soft tissues. Extensive bone marrow edema and soft tissue thickening noted. Conclusion: Suggests recurrence of osteosarcoma with aggressive local behavior.\n\nX-ray Findings (3/1/24): Aggressive lytic bone lesion in the distal femur (~5 cm) with cortical destruction, soft tissue mass, and periosteal reaction (sunburst pattern). No metastatic disease noted in surrounding bones or soft tissues.\n\nMRI Findings (3/2/24): Large heterogeneous mass in the distal femur (5.5 cm x 6.2 cm) with mixed signal intensity, local muscle invasion, and infiltrative margins. No lymphadenopathy or distant metastatic lesions identified.",
-        "symptom_severity_and_impact": "Left thigh pain at prior resection site, non-productive cough, fatigue, palpable mass above knee joint with tenderness, and elevated LDH/ferritin indicating high tumor burden. Symptoms impact daily functioning and suggest disease progression.",
-        "prognosis_and_risk_if_not_approved": "High risk of rapid disease progression, increased metastatic spread, and deterioration of clinical status without timely intervention. Poor prognosis if recurrence is left untreated.",
-        "clinical_rationale_for_urgency": "Recurrence and metastasis despite aggressive multimodal therapy indicate limited treatment options. Initiation of mTOR inhibitor therapy (everolimus) is critical to control disease progression and improve outcomes.",
+        "lab_summary": "No lab results provided for interpretation. All panels (CBC, CMP, ESR, CRP, fecal markers) and abnormal values are marked as null. Further data is required for meaningful analysis.",
+        "imaging_results": null,
+        "symptom_severity_and_impact": null,
+        "prognosis_and_risk_if_not_approved": null,
+        "clinical_rationale_for_urgency": null,
         "treatment_request": {
-            "name_of_medication_or_procedure": "Everolimus",
+            "name_of_medication_or_procedure": null,
             "code_of_medication_or_procedure": null,
-            "dosage": "5mg/m2 once daily",
+            "dosage": null,
             "duration": null,
-            "rationale": "Metastatic Osteosarcoma (ICD-10: CD40.0)",
+            "rationale": null,
             "presumed_eligibility": null
         }
     }
